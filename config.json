@@ -4,15 +4,11 @@
   "name": "Kian Murdock",
   "userimg": "https://avatars.githubusercontent.com/u/25722000?v=4",
   "sort": "star",
-  "order": "asc",
-  "includeFork": true,
-  "theme": "dark.css",
+  "order": "desc",
+  "includeFork": false,
+  "theme": "light.css",
   "types": [
-   "owner"
-  ],
-  "twitter": null,
-  "linkedin": null,
-  "medium": null,
-  "dribbble": null
+   "all"
+  ]
  }
 ]
