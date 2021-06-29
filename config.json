@@ -1,11 +1,18 @@
 [
  {
   "username": "d-u-q",
-  "name": null,
-  "userimg": "https://avatars3.githubusercontent.com/u/25722000?v=4",
-  "sort": "created",
+  "name": "Kian Murdock",
+  "userimg": "https://avatars.githubusercontent.com/u/25722000?v=4",
+  "sort": "star",
   "order": "asc",
   "includeFork": true,
-  "theme": "dark.css"
+  "theme": "dark.css",
+  "types": [
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
